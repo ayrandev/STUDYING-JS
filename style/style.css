@@ -38,11 +38,11 @@ a {
     
 }
 
-.container-main{
+/*.container-main{
     display: flex;
     justify-content: space-around;
     gap: 70px;
-}
+}*/
 .menu-item {
     color: black;
     margin: 15px;
@@ -382,12 +382,12 @@ padding-top: 5px;
 
 @media screen and (max-width: 768px) {
    
-    .container-main{
+    /*.container-main{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-    }
+    }*/
 
     .container-form-calc{
       margin: 60px auto 0 auto;     
